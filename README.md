@@ -1,1 +1,1 @@
-to display visualized digital clock
+to display visualized digital clock.
